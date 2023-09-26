@@ -1,4 +1,5 @@
 # Tebak_gambar
+![tebak gambar](https://github.com/misterdot10/2D-poong_game/assets/121602059/6a0d1d4d-3e7a-4dc3-8fbf-4fcd21500199)
 Gama tebak gambar adalah permainan seru yang menguji kemampuan pemain dalam mengenali gambar . Dalam game ini, Anda akan diberikan sejumlah gambar, dan tugas Anda adalah menebak dengan cepat apa yang ada dalam gambar tersebut. Semakin cepat Anda menjawab, semakin cepat anda menang.
 # Fitur
 •	Classic Picture Matching game  
