@@ -28,4 +28,4 @@ We welcome contributions from the community. If you'd like to contribute to this
 # Contact
 If you have any questions or suggestions, you can contact us via email at [akmalassegaf5@gmail.com].
 
-Thank you for using 2D-poong-game
+Thank you for using Tebak_gambar
